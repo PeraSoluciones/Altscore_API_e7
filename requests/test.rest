@@ -6,3 +6,6 @@ GET http://localhost:3001/repair-bay
 
 ###POST
 POST HTTP://localhost:3001/teapot
+
+###Deploy POST
+POST https://altscore-api-e7.onrender.com/teapot
