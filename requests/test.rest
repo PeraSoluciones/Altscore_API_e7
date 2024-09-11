@@ -1,0 +1,8 @@
+###Get status
+GET http://localhost:3001/status
+
+###Get repair-bay
+GET http://localhost:3001/repair-bay
+
+###POST
+POST HTTP://localhost:3001/teapot
